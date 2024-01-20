@@ -1,0 +1,13 @@
+.DIVISION{
+    text-align: center;
+    border: 2PX ridge black;
+    border-radius: 20PX;
+}
+
+body{
+    background-color: grey;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px ridge black;
+    border-radius: 20px;
+}

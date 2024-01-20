@@ -1,0 +1,48 @@
+BODY{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: medium;
+font-weight: 100;
+font-style: italic;
+color: black;
+background-color: grey;
+border: 3PX ridge blue;
+border-radius: 15px;
+box-shadow: inset;
+border-style: ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.HEAD{
+border: 2PX RIDGE BLACK;
+margin-left: 50PX;
+margin-right: 50PX;
+text-align: center;
+}
+
+.BUTTON{
+    border-radius: 20px;
+    border-color: #8F1F0B;
+    background-color:#8F1F0B ;
+    padding: 11px;
+    font-size: larger;
+    margin-left: 1000PX;
+    font-weight: 50px;
+
+}
+ .image{
+    float: left;
+    margin-right:5px ;
+
+ }   

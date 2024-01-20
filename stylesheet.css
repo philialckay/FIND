@@ -1,0 +1,101 @@
+body{
+background-color:whitesmoke;
+    color: BLACK;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: 300;
+border: 5PX ridge#4A5685 ;
+border-radius: 30PX;
+}
+.title{
+border: 1px ridge rgb(13, 13, 131);
+border-radius: 15px;
+background-color: beige;
+COLOR:BLACK;
+padding: 15PX;
+font-size: 23PX;
+}
+
+.learn{
+background-color:#8F1F0B;;
+ border: 1px;
+ border-radius:10px ;
+ color: antiquewhite;
+ padding: 11PX;
+}
+
+.TEXT{
+text-align: center;
+
+}
+
+.PARA{
+text-align: center;
+padding: 5PX;
+font-size: larger;
+
+
+}
+
+.division{
+background-color:grey;
+border-radius: 15px;
+margin: 60px;
+border: 1px ridge rgb(8, 8, 119);
+padding: 50PX;
+font-size: large;
+
+}
+
+.image{
+    
+    border-radius: 15px;
+    margin-left:10px;
+    border: 1px ridge rgb(8, 8, 119);
+    margin-left: 200px;
+ margin-right: 150px;
+}
+
+.video{
+    margin-left: 400px;
+    padding-top: 0px;
+
+
+}
+    
+
+
+
+.last{
+border-radius: 20px;
+border-color: #8F1F0B;
+background-color:#8F1F0B ;
+padding: 13px;
+font-size: 26PX;
+}
+
+.CONTACT{
+    border-radius: 20px;
+    border-color: #8F1F0B;
+    background-color:#8F1F0B ;
+    padding: 12px;
+    font-size: larger;
+    margin-left: 1220PX;
+  
+
+}
+button:hover{
+background-color: rgba(165, 42, 42, 0.795);
+
+    OPACITY:0.9;
+}
+
+
+
+
+
+
+
+
+
+
+
